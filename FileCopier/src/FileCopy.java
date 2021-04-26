@@ -80,15 +80,7 @@ public class FileCopy {
 		}
 		sc.close();
 		sc2.close();
-		System.out.println("Finished !");
-		
-		/*File source = new File("C:\\Users\\seif9\\Desktop\\ID.txt");
-        File dest = new File("C:\\Users\\seif9\\Desktop\\dest.txt");
-        copyCharByChar(source, dest);*/
-		//String source = "C:\\Users\\seif9\\Desktop\\ID.txt";
-		//String dest = "C:\\Users\\seif9\\Desktop\\dest.txt";
-		//copyLineByLine(source, dest);
-		
+		System.out.println("Finished !");		
 	}
 
 }
